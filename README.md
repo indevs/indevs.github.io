@@ -1,2 +1,3 @@
-# sepcode.github.io
+# Website
+### sepcode.github.io
 A website to showcase all of the projects
