@@ -1,3 +1,3 @@
 # Website
-### sepcode.github.io
+### indevs.github.io
 A website to showcase all of the projects
